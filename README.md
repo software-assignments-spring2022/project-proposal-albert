@@ -20,4 +20,5 @@ The end-users are NYU Computer Science students. Our plan is to provide limited 
 
 ## How?
 <!-- A description of what the system will do from an end-user's perspective.  Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work. -->
+For the information retrival process, we will be using web crawler. 
 

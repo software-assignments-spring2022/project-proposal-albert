@@ -5,6 +5,9 @@
 
 ## What and why?
 <!-- What software system would you like to build this semester, and why?  Include a description of what problem the system would solve and why this is important. -->
+We will build an information hub for cs people. For example, there are many differnet cs online contest websites, such as leetcode, codeforce, kaggle. And there are many events/contests happening on them. It's very hard to keep track of all those informations. So we want to build a website to collect and aggregate all the information, so that users don't have to open dozens of pages. All they need to do is open our website and see what they are interested in and click the link. 
+
+In the future, we will try to add more powerful features, like job opportunities. And even let user self-define the information they want to keep track of.
 
 
 ## For whom?

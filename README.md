@@ -24,11 +24,11 @@ In the future, we will try to add more useful informations in cs field, like job
 Do not make software for imaginary users who do not exist - you must have real people as your initial end-users.  Tell us who they are.  For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
 
 Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not. -->
-The end-users are NYU Computer Science students. Our plan is to provide limited service to CS department students. We will extend the service to any student seeking Software Engineering related job positions.
+The end-users are people in Computer Science, especially students. For now , our plan is to provide limited service to CS students at NYU. We will extend the service to any people insterested in all kinds of cs events, coding contests, job position, and etc.
 
-Given the intense competition within the computer science field as well as need for experience, CS students would benefit greatly from participating in coding contests and events. Some students don't know where to start looking for such contests, and even if they did, keeping up to date with the events and maintaining their schedule is inconvenient - as stated above. Aiming this specifically to NYU students will enable us to better design our app with what we are familiar with and have/have not learned.
+Given the intense competition within the computer science field as well as the needs for experience, CS students would benefit greatly from participating in coding contests and events. Various problems are hindering students from making progress. Some students don't know where to start looking for such contests, and even if they did, keeping up to date with the events and maintaining their schedule is inconvenient and energy consuming - as stated above. We want to make it easy for students know where and when they can learn beyond classroom. Aiming this specifically to NYU students will enable us to better design our app with what we are familiar with and have/have not learned.
 
-If resources allowed, we will extend the service to the internet.
+If resources allowed, we will extend the service to more people on the  Internet.
 
 ## How?
 <!-- A description of what the system will do from an end-user's perspective.  Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work. -->
@@ -43,4 +43,6 @@ Additional potential features we would like to incorporate are listed below:
 
 ## Scope
 
-The general premise of the app is relatively simple, with the only challenge being how we will be able to retieve data (the solution to this may vary depending on the website). However, once we get the essential parts of the project finished, we have a lot of potential for refining quality-of-life, such as the additional features listed above. This, combined with the fact that the project idea is both practical and effective, leads us to believe that it is a good app to work on.
+The general premise of the app is relatively simple, with the only challenge being how we will be able to retieve data (the solution to this may vary depending on the website). However, once we get the essential parts of the project finished, we have a lot of potential for refining quality-of-life, such as the additional features listed above. 
+
+This, combined with the fact that the project idea is both practical and effective, leads us to believe that it is a good app to work on.

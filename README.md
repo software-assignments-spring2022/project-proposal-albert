@@ -7,6 +7,7 @@ Chengyang Song
 Diana Zhao  
 Charlie Cai  
 Dana Sun
+Jeffery Wang
 
 ## Project title
 

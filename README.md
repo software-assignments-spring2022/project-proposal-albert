@@ -14,9 +14,9 @@ CodeHunt (a coding calendar app)
 
 ## What and why?
 <!-- What software system would you like to build this semester, and why?  Include a description of what problem the system would solve and why this is important. -->
-We will build an information hub for computer scientists. For example, there are many different cs online contest websites, such as Leetcode, Codeforces, Kaggle, etc. And there are many events/contests happening on them. It's inconvenient to keep track of all events by jumping from website to website. So we want to build a webapp to collect and aggregate all the information so that users don't have to open dozens of pages. All they need to do is open our website and see what they are interested in and click the link. 
+We will build an information hub for people in computer science field. In today's world, the information overload slows people's productivity. For example, there are many events/contest happening on different cs online contest websites, such as Leetcode, Codeforces, Kaggle, etc. It's time-consuming to keep track of all events by jumping from website to website. So we want to build a webapp to collect and aggregate all the information so that users don't have to open dozens of pages. All they need to do is open our website and see what they are interested in and click the link. This will make the life much easier.
 
-In the future, we will try to add more powerful features, like job or internship opportunities. And even let user self-define the information they want to keep track of.
+In the future, we will try to add more useful informations in cs field, like job or internship opportunities. And even more powerful features such as letting user self-define the information on any website they want to keep track of.
 
 ## For whom?
 <!-- Who will this software be for?  These people are your end-users or customers.
